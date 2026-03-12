@@ -1,0 +1,358 @@
+2026-03-12 15:36:01,014 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 15:36:01,015 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 15:36:01,019 - INFO -  * Restarting with stat
+2026-03-12 15:36:01,734 - WARNING -  * Debugger is active!
+2026-03-12 15:36:01,739 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 15:37:40,002 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:40] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:44,818 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:44] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:47,097 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:47] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:47,896 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:47] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:49,545 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:49] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:50,226 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:50] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:50,701 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:50] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:51,115 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:51] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:51,333 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:51] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:51,707 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:51] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:51,909 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:51] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:52,090 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:52] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:52,282 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:52] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:52,459 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:52] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:52,650 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:52] "GET / HTTP/1.1" 200 -
+2026-03-12 15:37:52,883 - INFO - 127.0.0.1 - - [12/Mar/2026 15:37:52] "GET / HTTP/1.1" 200 -
+2026-03-12 15:38:13,738 - INFO - 127.0.0.1 - - [12/Mar/2026 15:38:13] "GET / HTTP/1.1" 200 -
+2026-03-12 15:38:24,018 - INFO - 127.0.0.1 - - [12/Mar/2026 15:38:24] "GET / HTTP/1.1" 200 -
+2026-03-12 15:39:58,241 - INFO - 127.0.0.1 - - [12/Mar/2026 15:39:58] "GET / HTTP/1.1" 200 -
+2026-03-12 15:40:00,290 - INFO - 127.0.0.1 - - [12/Mar/2026 15:40:00] "GET / HTTP/1.1" 200 -
+2026-03-12 15:42:00,000 - INFO - 127.0.0.1 - - [12/Mar/2026 15:42:00] "GET / HTTP/1.1" 200 -
+2026-03-12 15:44:00,969 - INFO - 127.0.0.1 - - [12/Mar/2026 15:44:00] "GET / HTTP/1.1" 200 -
+2026-03-12 15:46:49,668 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 15:46:49,669 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 15:46:49,672 - INFO -  * Restarting with stat
+2026-03-12 15:46:50,514 - WARNING -  * Debugger is active!
+2026-03-12 15:46:50,521 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 15:47:08,297 - INFO - 127.0.0.1 - - [12/Mar/2026 15:47:08] "GET / HTTP/1.1" 200 -
+2026-03-12 15:47:15,015 - INFO - 127.0.0.1 - - [12/Mar/2026 15:47:15] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:05,311 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:05] "GET / HTTP/1.1" 200 -
+2026-03-12 15:48:05,770 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:05] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:10,840 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:10] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:13,377 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:13] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:13,380 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:13] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:13,881 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:13] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:13,883 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:13] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:48,373 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:48] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:48:51,932 - INFO - 127.0.0.1 - - [12/Mar/2026 15:48:51] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:49:08,172 - INFO - 127.0.0.1 - - [12/Mar/2026 15:49:08] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:49:08,683 - INFO - 127.0.0.1 - - [12/Mar/2026 15:49:08] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:49:09,217 - INFO - 127.0.0.1 - - [12/Mar/2026 15:49:09] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:49:09,710 - INFO - 127.0.0.1 - - [12/Mar/2026 15:49:09] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:49:18,835 - INFO - 127.0.0.1 - - [12/Mar/2026 15:49:18] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:49:22,401 - INFO - 127.0.0.1 - - [12/Mar/2026 15:49:22] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 15:51:46,634 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 15:51:46,635 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 15:51:46,638 - INFO -  * Restarting with stat
+2026-03-12 15:51:47,513 - WARNING -  * Debugger is active!
+2026-03-12 15:51:47,520 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 15:51:58,972 - INFO - 127.0.0.1 - - [12/Mar/2026 15:51:58] "GET / HTTP/1.1" 200 -
+2026-03-12 15:52:42,145 - INFO - 127.0.0.1 - - [12/Mar/2026 15:52:42] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:52:53,854 - INFO - 127.0.0.1 - - [12/Mar/2026 15:52:53] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:52:54,356 - INFO - 127.0.0.1 - - [12/Mar/2026 15:52:54] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:52:54,856 - INFO - 127.0.0.1 - - [12/Mar/2026 15:52:54] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:52:54,856 - INFO - 127.0.0.1 - - [12/Mar/2026 15:52:54] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:52:55,385 - INFO - 127.0.0.1 - - [12/Mar/2026 15:52:55] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:12,154 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:12] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:23,871 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:23] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:24,387 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:24] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:24,902 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:24] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:24,902 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:24] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:25,404 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:25] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:42,185 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:42] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:54,374 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:54] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:54,890 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:54] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:55,376 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:55] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:55,377 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:55] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:53:55,885 - INFO - 127.0.0.1 - - [12/Mar/2026 15:53:55] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:12,684 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:12] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:24,389 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:24] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:24,903 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:24] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:25,419 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:25] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:25,420 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:25] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:25,926 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:25] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:43,169 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:43] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:54,901 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:54] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:55,402 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:55] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:54:55,907 - INFO - 127.0.0.1 - - [12/Mar/2026 15:54:55] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:55:41,863 - INFO - 127.0.0.1 - - [12/Mar/2026 15:55:41] "GET / HTTP/1.1" 200 -
+2026-03-12 15:56:22,106 - INFO - 127.0.0.1 - - [12/Mar/2026 15:56:22] "POST /chat HTTP/1.1" 200 -
+2026-03-12 15:59:46,483 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 15:59:46,483 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 15:59:46,490 - INFO -  * Restarting with stat
+2026-03-12 15:59:47,347 - WARNING -  * Debugger is active!
+2026-03-12 15:59:47,351 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:00:01,794 - INFO - 127.0.0.1 - - [12/Mar/2026 16:00:01] "GET / HTTP/1.1" 200 -
+2026-03-12 16:00:45,891 - INFO - 127.0.0.1 - - [12/Mar/2026 16:00:45] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:02:11,897 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:02:11,898 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:02:11,900 - INFO -  * Restarting with stat
+2026-03-12 16:02:12,667 - WARNING -  * Debugger is active!
+2026-03-12 16:02:12,672 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:02:21,035 - INFO - 127.0.0.1 - - [12/Mar/2026 16:02:21] "GET / HTTP/1.1" 200 -
+2026-03-12 16:03:09,669 - INFO - 127.0.0.1 - - [12/Mar/2026 16:03:09] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:03:19,314 - INFO - 127.0.0.1 - - [12/Mar/2026 16:03:19] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:05:16,255 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\chatbot.py', reloading
+2026-03-12 16:05:16,783 - INFO -  * Restarting with stat
+2026-03-12 16:05:17,644 - WARNING -  * Debugger is active!
+2026-03-12 16:05:17,648 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:05:29,281 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-12 16:05:29,878 - INFO -  * Restarting with stat
+2026-03-12 16:05:30,771 - WARNING -  * Debugger is active!
+2026-03-12 16:05:30,774 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:05:34,993 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-12 16:05:35,422 - INFO -  * Restarting with stat
+2026-03-12 16:05:36,148 - WARNING -  * Debugger is active!
+2026-03-12 16:05:36,152 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:05:47,827 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:05:47,828 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:05:47,833 - INFO -  * Restarting with stat
+2026-03-12 16:05:48,710 - WARNING -  * Debugger is active!
+2026-03-12 16:05:48,714 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:06:02,955 - INFO - 127.0.0.1 - - [12/Mar/2026 16:06:02] "GET / HTTP/1.1" 200 -
+2026-03-12 16:06:50,277 - INFO - 127.0.0.1 - - [12/Mar/2026 16:06:50] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:07:20,828 - INFO - 127.0.0.1 - - [12/Mar/2026 16:07:20] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:08:36,694 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:08:37,345 - INFO -  * Restarting with stat
+2026-03-12 16:08:38,278 - WARNING -  * Debugger is active!
+2026-03-12 16:08:38,281 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:09:06,258 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:09:06,617 - INFO -  * Restarting with stat
+2026-03-12 16:09:07,301 - WARNING -  * Debugger is active!
+2026-03-12 16:09:07,304 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:09:19,032 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:09:19,033 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:09:19,036 - INFO -  * Restarting with stat
+2026-03-12 16:09:19,715 - WARNING -  * Debugger is active!
+2026-03-12 16:09:19,720 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:09:31,737 - INFO - 127.0.0.1 - - [12/Mar/2026 16:09:31] "GET / HTTP/1.1" 200 -
+2026-03-12 16:10:11,878 - INFO - 127.0.0.1 - - [12/Mar/2026 16:10:11] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:10:13,404 - INFO - 127.0.0.1 - - [12/Mar/2026 16:10:13] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:10:35,263 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:10:35,581 - INFO -  * Restarting with stat
+2026-03-12 16:10:36,311 - WARNING -  * Debugger is active!
+2026-03-12 16:10:36,314 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:10:46,119 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:10:46,119 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:10:46,122 - INFO -  * Restarting with stat
+2026-03-12 16:10:47,103 - WARNING -  * Debugger is active!
+2026-03-12 16:10:47,107 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:11:00,562 - INFO - 127.0.0.1 - - [12/Mar/2026 16:11:00] "GET / HTTP/1.1" 200 -
+2026-03-12 16:11:48,217 - INFO - 127.0.0.1 - - [12/Mar/2026 16:11:48] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:11:49,747 - INFO - 127.0.0.1 - - [12/Mar/2026 16:11:49] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:13:07,084 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-12 16:13:07,748 - INFO -  * Restarting with stat
+2026-03-12 16:13:08,531 - WARNING -  * Debugger is active!
+2026-03-12 16:13:08,536 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:13:21,195 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\chatbot.py', reloading
+2026-03-12 16:13:22,372 - INFO -  * Restarting with stat
+2026-03-12 16:13:23,128 - WARNING -  * Debugger is active!
+2026-03-12 16:13:23,132 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:13:32,496 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:13:32,813 - INFO -  * Restarting with stat
+2026-03-12 16:13:33,496 - WARNING -  * Debugger is active!
+2026-03-12 16:13:33,500 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:13:39,759 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:13:40,195 - INFO -  * Restarting with stat
+2026-03-12 16:13:40,802 - WARNING -  * Debugger is active!
+2026-03-12 16:13:40,805 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:13:48,851 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:13:48,852 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:13:48,853 - INFO -  * Restarting with stat
+2026-03-12 16:13:49,603 - WARNING -  * Debugger is active!
+2026-03-12 16:13:49,607 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:13:58,101 - INFO - 127.0.0.1 - - [12/Mar/2026 16:13:58] "GET / HTTP/1.1" 200 -
+2026-03-12 16:14:47,602 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\chatbot.py', reloading
+2026-03-12 16:14:47,997 - INFO -  * Restarting with stat
+2026-03-12 16:14:48,800 - WARNING -  * Debugger is active!
+2026-03-12 16:14:48,803 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:14:49,897 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\chatbot.py', reloading
+2026-03-12 16:14:50,940 - INFO -  * Restarting with stat
+2026-03-12 16:14:51,596 - WARNING -  * Debugger is active!
+2026-03-12 16:14:51,600 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:14:58,787 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:14:58,787 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:14:58,789 - INFO -  * Restarting with stat
+2026-03-12 16:14:59,744 - WARNING -  * Debugger is active!
+2026-03-12 16:14:59,749 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:15:01,811 - INFO - 127.0.0.1 - - [12/Mar/2026 16:15:01] "GET / HTTP/1.1" 200 -
+2026-03-12 16:15:14,158 - INFO - 127.0.0.1 - - [12/Mar/2026 16:15:14] "GET / HTTP/1.1" 200 -
+2026-03-12 16:15:17,063 - INFO - 127.0.0.1 - - [12/Mar/2026 16:15:17] "GET / HTTP/1.1" 200 -
+2026-03-12 16:15:17,618 - INFO - 127.0.0.1 - - [12/Mar/2026 16:15:17] "GET / HTTP/1.1" 200 -
+2026-03-12 16:15:17,806 - INFO - 127.0.0.1 - - [12/Mar/2026 16:15:17] "GET / HTTP/1.1" 200 -
+2026-03-12 16:15:17,987 - INFO - 127.0.0.1 - - [12/Mar/2026 16:15:17] "GET / HTTP/1.1" 200 -
+2026-03-12 16:15:34,616 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:15:34,616 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:15:34,618 - INFO -  * Restarting with stat
+2026-03-12 16:15:35,638 - WARNING -  * Debugger is active!
+2026-03-12 16:15:35,641 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:15:45,251 - INFO - 127.0.0.1 - - [12/Mar/2026 16:15:45] "GET / HTTP/1.1" 200 -
+2026-03-12 16:18:02,960 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:18:03,545 - INFO -  * Restarting with stat
+2026-03-12 16:18:04,585 - WARNING -  * Debugger is active!
+2026-03-12 16:18:04,591 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:18:11,741 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:18:11,741 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:18:11,744 - INFO -  * Restarting with stat
+2026-03-12 16:18:12,571 - WARNING -  * Debugger is active!
+2026-03-12 16:18:12,576 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:18:21,832 - INFO - 127.0.0.1 - - [12/Mar/2026 16:18:21] "GET / HTTP/1.1" 200 -
+2026-03-12 16:19:02,190 - INFO - 127.0.0.1 - - [12/Mar/2026 16:19:02] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:19:55,769 - INFO - 127.0.0.1 - - [12/Mar/2026 16:19:55] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:19:58,815 - INFO - 127.0.0.1 - - [12/Mar/2026 16:19:58] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:19:59,334 - INFO - 127.0.0.1 - - [12/Mar/2026 16:19:59] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:20:00,354 - INFO - 127.0.0.1 - - [12/Mar/2026 16:20:00] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:20:01,896 - INFO - 127.0.0.1 - - [12/Mar/2026 16:20:01] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:20:02,381 - INFO - 127.0.0.1 - - [12/Mar/2026 16:20:02] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:21:25,648 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:21:26,006 - INFO -  * Restarting with stat
+2026-03-12 16:21:26,893 - WARNING -  * Debugger is active!
+2026-03-12 16:21:26,897 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:21:31,099 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:21:31,562 - INFO -  * Restarting with stat
+2026-03-12 16:21:32,209 - WARNING -  * Debugger is active!
+2026-03-12 16:21:32,212 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:21:38,372 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:21:38,372 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:21:38,374 - INFO -  * Restarting with stat
+2026-03-12 16:21:39,249 - WARNING -  * Debugger is active!
+2026-03-12 16:21:39,254 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:21:43,592 - INFO - 127.0.0.1 - - [12/Mar/2026 16:21:43] "GET / HTTP/1.1" 200 -
+2026-03-12 16:22:33,702 - INFO - 127.0.0.1 - - [12/Mar/2026 16:22:33] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:22:36,230 - INFO - 127.0.0.1 - - [12/Mar/2026 16:22:36] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:22:58,594 - INFO - 127.0.0.1 - - [12/Mar/2026 16:22:58] "POST /chat HTTP/1.1" 200 -
+2026-03-12 16:23:48,484 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\llm_parser.py', reloading
+2026-03-12 16:23:49,571 - INFO -  * Restarting with stat
+2026-03-12 16:23:50,224 - WARNING -  * Debugger is active!
+2026-03-12 16:23:50,227 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:24:05,917 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\chatbot.py', reloading
+2026-03-12 16:24:06,413 - INFO -  * Restarting with stat
+2026-03-12 16:24:07,144 - WARNING -  * Debugger is active!
+2026-03-12 16:24:07,147 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:24:15,500 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:24:15,801 - INFO -  * Restarting with stat
+2026-03-12 16:24:16,650 - WARNING -  * Debugger is active!
+2026-03-12 16:24:16,653 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:24:24,847 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:24:24,848 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:24:24,850 - INFO -  * Restarting with stat
+2026-03-12 16:24:25,532 - WARNING -  * Debugger is active!
+2026-03-12 16:24:25,536 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:24:34,649 - INFO - 127.0.0.1 - - [12/Mar/2026 16:24:34] "GET / HTTP/1.1" 200 -
+2026-03-12 16:25:18,171 - INFO - 127.0.0.1 - - [12/Mar/2026 16:25:18] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 16:25:47,191 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 16:25:48,046 - INFO -  * Restarting with stat
+2026-03-12 16:25:48,984 - WARNING -  * Debugger is active!
+2026-03-12 16:25:48,988 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:25:52,139 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\llm_parser.py', reloading
+2026-03-12 16:25:52,891 - INFO -  * Restarting with stat
+2026-03-12 16:25:53,705 - WARNING -  * Debugger is active!
+2026-03-12 16:25:53,709 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:27:47,445 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\llm_parser.py', reloading
+2026-03-12 16:27:47,965 - INFO -  * Restarting with stat
+2026-03-12 16:28:58,080 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:28:58,080 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:28:58,082 - INFO -  * Restarting with stat
+2026-03-12 16:28:58,879 - WARNING -  * Debugger is active!
+2026-03-12 16:28:58,885 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:29:04,435 - INFO - 127.0.0.1 - - [12/Mar/2026 16:29:04] "GET / HTTP/1.1" 200 -
+2026-03-12 16:29:12,371 - INFO - 127.0.0.1 - - [12/Mar/2026 16:29:12] "GET / HTTP/1.1" 200 -
+2026-03-12 16:29:52,713 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-12 16:29:53,132 - INFO -  * Restarting with stat
+2026-03-12 16:29:54,038 - WARNING -  * Debugger is active!
+2026-03-12 16:29:54,043 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:30:25,315 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 16:30:25,315 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 16:30:25,318 - INFO -  * Restarting with stat
+2026-03-12 16:30:25,962 - WARNING -  * Debugger is active!
+2026-03-12 16:30:25,965 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 16:30:33,726 - INFO - 127.0.0.1 - - [12/Mar/2026 16:30:33] "GET / HTTP/1.1" 200 -
+2026-03-12 16:31:17,493 - INFO - 127.0.0.1 - - [12/Mar/2026 16:31:17] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:25:11,962 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:25:11,962 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:25:11,965 - INFO -  * Restarting with stat
+2026-03-12 19:25:13,433 - WARNING -  * Debugger is active!
+2026-03-12 19:25:13,440 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:25:20,684 - INFO - 127.0.0.1 - - [12/Mar/2026 19:25:20] "GET / HTTP/1.1" 200 -
+2026-03-12 19:25:35,747 - ERROR - Postgres insert failed
+2026-03-12 19:25:35,747 - INFO - Employee Created | {'Employee_ID': 'EMP8122', 'Employee_Name': 'Suresh', 'Department': 'IT', 'Skill_Set': 'Python', '_id': ObjectId('69b2c5d3a094ee3344cd5f12')}
+2026-03-12 19:25:35,752 - INFO - 127.0.0.1 - - [12/Mar/2026 19:25:35] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:31:18,994 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:31:18,995 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:31:18,998 - INFO -  * Restarting with stat
+2026-03-12 19:31:19,810 - WARNING -  * Debugger is active!
+2026-03-12 19:31:19,816 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:31:25,362 - INFO - 127.0.0.1 - - [12/Mar/2026 19:31:25] "GET / HTTP/1.1" 200 -
+2026-03-12 19:32:07,542 - INFO - 127.0.0.1 - - [12/Mar/2026 19:32:07] "GET / HTTP/1.1" 200 -
+2026-03-12 19:32:24,794 - INFO - 127.0.0.1 - - [12/Mar/2026 19:32:24] "GET / HTTP/1.1" 200 -
+2026-03-12 19:32:46,520 - INFO - 127.0.0.1 - - [12/Mar/2026 19:32:46] "GET / HTTP/1.1" 200 -
+2026-03-12 19:33:10,679 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:33:10,680 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:33:10,681 - INFO -  * Restarting with stat
+2026-03-12 19:33:11,541 - WARNING -  * Debugger is active!
+2026-03-12 19:33:11,545 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:33:18,071 - INFO - 127.0.0.1 - - [12/Mar/2026 19:33:18] "GET / HTTP/1.1" 200 -
+2026-03-12 19:33:33,847 - ERROR - Postgres insert failed
+2026-03-12 19:33:33,847 - INFO - Employee Created | {'Employee_ID': 'EMP1841', 'Employee_Name': 'Suresh', 'Department': 'IT', 'Skill_Set': 'Python', '_id': ObjectId('69b2c7b1fd41b5191d813754')}
+2026-03-12 19:33:33,848 - INFO - 127.0.0.1 - - [12/Mar/2026 19:33:33] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:35:25,382 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 19:35:26,029 - INFO -  * Restarting with stat
+2026-03-12 19:35:26,798 - WARNING -  * Debugger is active!
+2026-03-12 19:35:26,802 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:35:27,886 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-12 19:35:28,411 - INFO -  * Restarting with stat
+2026-03-12 19:35:35,281 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:35:35,282 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:35:35,286 - INFO -  * Restarting with stat
+2026-03-12 19:35:36,149 - WARNING -  * Debugger is active!
+2026-03-12 19:35:36,153 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:35:48,097 - INFO - 127.0.0.1 - - [12/Mar/2026 19:35:48] "GET / HTTP/1.1" 200 -
+2026-03-12 19:36:03,456 - ERROR - Postgres insert failed
+2026-03-12 19:36:03,456 - INFO - Employee Created | {'Employee_ID': 'EMP7247', 'Employee_Name': 'Suresh', 'Department': 'IT', 'Skill_Set': 'Python', '_id': ObjectId('69b2c847980406d14b47b28e')}
+2026-03-12 19:36:03,457 - INFO - 127.0.0.1 - - [12/Mar/2026 19:36:03] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:36:53,686 - ERROR - Postgres insert failed
+2026-03-12 19:36:53,686 - INFO - Employee Created | {'Employee_ID': 'EMP7231', 'Employee_Name': 'Suresh', 'Department': 'IT', 'Skill_Set': 'Python', '_id': ObjectId('69b2c879980406d14b47b28f')}
+2026-03-12 19:36:53,687 - INFO - 127.0.0.1 - - [12/Mar/2026 19:36:53] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:37:11,599 - ERROR - Postgres insert failed
+2026-03-12 19:37:11,600 - INFO - Employee Created | {'Employee_ID': 'EMP1325', 'Employee_Name': 'Naresh', 'Department': 'Medico', 'Skill_Set': 'Developer', '_id': ObjectId('69b2c88b980406d14b47b290')}
+2026-03-12 19:37:11,600 - INFO - 127.0.0.1 - - [12/Mar/2026 19:37:11] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:37:52,947 - ERROR - Postgres insert failed
+2026-03-12 19:37:52,948 - INFO - Employee Created | {'Employee_ID': 'EMP1415', 'Employee_Name': 'Kavui', 'Department': 'IH', 'Skill_Set': 'Pythi', '_id': ObjectId('69b2c8b4980406d14b47b291')}
+2026-03-12 19:37:52,948 - INFO - 127.0.0.1 - - [12/Mar/2026 19:37:52] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:38:48,160 - INFO - 127.0.0.1 - - [12/Mar/2026 19:38:48] "GET / HTTP/1.1" 200 -
+2026-03-12 19:40:20,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:40:20,234 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:40:20,236 - INFO -  * Restarting with stat
+2026-03-12 19:40:21,397 - WARNING -  * Debugger is active!
+2026-03-12 19:40:21,401 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:40:25,479 - INFO - 127.0.0.1 - - [12/Mar/2026 19:40:25] "GET / HTTP/1.1" 200 -
+2026-03-12 19:40:37,677 - ERROR - Postgres insert failed
+2026-03-12 19:40:37,677 - INFO - Employee Created | {'Employee_ID': 'EMP9324', 'Employee_Name': 'kpl', 'Department': 'It', 'Skill_Set': 'python', '_id': ObjectId('69b2c959e66924bc6085def6')}
+2026-03-12 19:40:37,678 - INFO - 127.0.0.1 - - [12/Mar/2026 19:40:37] "POST /chat HTTP/1.1" 200 -

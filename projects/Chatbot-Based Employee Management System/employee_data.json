@@ -1,6 +1,0 @@
-{
- "employee_id":"EMP1001",
- "employee_name":"Suresh",
- "department":"AI",
- "skills":["Python","ML"]
-}

@@ -1,25 +1,32 @@
-from postgres_db import insert_employee
-from mongo_db import save_employee
-from utils import generate_employee_id
+import random
+from database_mongo import save_employee_mongo
+from database_postgres import save_employee_postgres
+from logger_config import logger
 
-last_id = None
 
-def create_employee(data):
+def generate_employee_id():
 
-    global last_id
+    return "EMP" + str(random.randint(1000, 9999))
 
-    emp_id = generate_employee_id(last_id)
-    last_id = emp_id
+
+def create_employee(name, department, skills):
+
+    emp_id = generate_employee_id()
 
     employee = {
-        "employee_id": emp_id,
-        "employee_name": data["employee_name"],
-        "department": data["department"],
-        "skills": data["skills"]
+        "Employee_ID": emp_id,
+        "Employee_Name": name,
+        "Department": department,
+        "Skill_Set": skills
     }
 
-    insert_employee(employee)
+    save_employee_mongo(employee)
 
-    save_employee(employee)
+    try:
+        save_employee_postgres(employee)
+    except Exception as e:
+        logger.error("Postgres insert failed")
+
+    logger.info(f"Employee Created | {employee}")
 
     return employee

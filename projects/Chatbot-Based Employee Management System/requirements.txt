@@ -1,4 +1,4 @@
 flask
-psycopg2
 pymongo
-requests
+psycopg2-binary
+transformers

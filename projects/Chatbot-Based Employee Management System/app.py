@@ -1,44 +1,24 @@
-from flask import Flask, request, jsonify
-from chatbot import extract_employee_data
-from employee_service import create_employee
-from mongo_db import save_chat
+from flask import Flask, render_template, request, jsonify
+from chatbot import chatbot_response
 
 app = Flask(__name__)
 
+@app.route("/")
+def home():
+    return render_template("index.html")
 
 @app.route("/chat", methods=["POST"])
 def chat():
 
-    payload = request.get_json(silent=True) or {}
-    message = payload.get("message")
+    message = request.json["message"]
 
-    if not message:
-        return jsonify({"error": "Field 'message' is required."}), 400
+    response = chatbot_response(message)
 
-    data = extract_employee_data(message)
+    # Convert MongoDB ObjectId to string
+    if "_id" in response:
+        response["_id"] = str(response["_id"])
 
-    if data["employee_name"]:
-
-        emp = create_employee(data)
-
-        response = f"""
-Employee Created Successfully
-
-Employee ID : {emp['employee_id']}
-Name : {emp['employee_name']}
-Department : {emp['department']}
-Skills : {emp['skills']}
-"""
-
-    else:
-
-        response = "Please provide employee details."
-
-    save_chat(message, response)
-
-    return jsonify({"response": response})
-
+    return jsonify(response)
 
 if __name__ == "__main__":
-    # Disable the reloader to avoid daemon-thread shutdown errors on exit.
-    app.run(debug=True, use_reloader=False)
+    app.run(debug=True)
