@@ -1,5 +1,5 @@
 import random
-
+#Start the game
 name = input("Enter Your name:- ")
 print("Good Luck !", name)
 
